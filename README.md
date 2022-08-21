@@ -31,7 +31,11 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<p>A simple and easy to use discord streaming status for user accounts in<a href="https://python.org"> Python</a>.</p>
+<p>A simple and easy to use discord streaming status for user accounts in<a href="https://python.org"> Python</a>.
+<br>
+<br> I do not the condone the use of this project as it breaches discord terms of service. Use at your own discretion.
+<br> I am not liable for any damages this profram causes.
+</p>
 
 
 <!-- GETTING STARTED -->
@@ -62,10 +66,13 @@ _Install the Project as shown below._
 
 _Run the Project as shown below._
 
-   ```sh
-   python main.py
-   python3 main.py
-  ```
+ 1. Edit token and url in main.py 
+
+ 2. Run main.py
+    ```sh
+    python main.py
+    python3 main.py
+    ```
 
 
 
