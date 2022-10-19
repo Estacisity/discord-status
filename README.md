@@ -54,7 +54,7 @@ _Install the Project as shown below._
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/Estacisity/discord-status.git
+   git clone https://github.com/JacobLAllen/discord-status.git
    ```
 3. Install Python packages
    ```sh
